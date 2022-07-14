@@ -2,10 +2,10 @@ RichPanel Asssessment:
 
 Current Features:
 
--1.Login to app
--2.Signup to the app
--3.See all the connected pages
--4. Read messages sent to pages
+  1.Login to app
+  2.Signup to the app
+  3.See all the connected pages
+  4. Read messages sent to pages
 
 Future Features:
 1. Improve UI 
