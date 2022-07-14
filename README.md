@@ -15,10 +15,11 @@ Future Features:
 
 
 Texhnologies Used :
-1.Python-Flask
-2.HTML/CSS
-3.FB Graph API
-
+<ol>
+  <li>Python-flask</li>
+  <li>HTML/CSS</li>
+  <li>Graph API</li>
+</ol>
 
 Issues:
 1. Due to lack of time API keys were not hidden and thus invalidated
